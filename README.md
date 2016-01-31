@@ -1,5 +1,5 @@
 ﻿Executable for Windows available at https://drive.google.com/file/d/0B2X3ALZkb5dNNW8zc0p6ZVBsQVk/view?usp=sharing
-
+```
   _____  _ _               _   _    _                
  |  __ \(_) |             | | | |  | |               
  | |__) |_| |_ _   _  __ _| | | |__| | ___ _ __ ___  
@@ -7,6 +7,7 @@
  | | \ \| | |_| |_| | (_| | | | |  | |  __/ | | (_) |
  |_|  \_\_|\__|\__,_|\__,_|_| |_|  |_|\___|_|  \___/ 
 -----------------------------------------------------------
+```
 by Jere Nevalainen for Global Game Jam 2016 (theme: RITUAL)
 
 Requirements:
