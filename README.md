@@ -1,4 +1,5 @@
 ﻿Executable for Windows available at https://drive.google.com/file/d/0B2X3ALZkb5dNNW8zc0p6ZVBsQVk/view?usp=sharing
+﻿http://globalgamejam.org/2016/games/ritual-hero-2
 ```
   _____  _ _               _   _    _                
  |  __ \(_) |             | | | |  | |               
