@@ -58,7 +58,7 @@ public class LeapController : MonoBehaviour {
         for(int i=0; i < 8; i++)
         {
             newRitual = Instantiate(ritualPrefab);
-            newRitual.transform.position = new Vector3(-5 + i * 3, 8.4f, 17.0f);
+            newRitual.transform.position = new Vector3(-10 + i * 3, 8.4f, 17.0f);
             rituals.Add(newRitual);
         }
         timerSpeed += 0.002f;
